@@ -1,4 +1,4 @@
-![LevitDock-X cover](assets/cover.png)
+![LevitDock-X cover](LevitDock-X%20cover.png)
 
 # LevitDock-X 🛸🧲
 
